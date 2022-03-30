@@ -1,0 +1,3 @@
+﻿  Needhem-Schroder.cpp
+B:\МИФИ - магистратура\2 семестр\Прикладная криптография\LR-3 C++\Needhem-schroeder\Needhem-schroeder\Needhem-Schroder.cpp(334,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Needhem-schroeder.vcxproj -> B:\МИФИ - магистратура\2 семестр\Прикладная криптография\LR-3 C++\Needhem-schroeder\x64\Debug\Needhem-schroeder.exe
